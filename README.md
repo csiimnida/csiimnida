@@ -1,3 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=A6E1E6&text=Csiimnida&fontAlign=50&descAlign=50&fontAlignY=50&fontColor=444444&animation=fadeIn&rotate=0&section=header&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=A6E1E6&text=Hello&fontAlign=50&descAlign=50&fontAlignY=50&fontColor=444444&animation=fadeIn&rotate=0&section=header&reversal=false)
+             
+<div align="center">
+    <h1>
+        저는 유니티를 배우고 싶은 장준서입니다.
+    <br>
+    </h1>
 
-<img src="https://camo.githubusercontent.com/c9421a6fb8261b647e51fa3b239b04941bf6f947bff1093f13136129bac5527a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c53747564696f266c6f676f436f6c6f723d7768697465">
+    나의 정보는?
+    
+<a href = "https://github.com/csiimnida"><img src="https://img.shields.io/badge/github-181717?style=flat-square&Blogger&logoColor=white"/></a>
+
+</div>
+
