@@ -4,7 +4,8 @@
 
 
     나의 정보는?
-    <center>
+
+<center>
 <a href = "https://github.com/csiimnida"><img src="https://img.shields.io/badge/github-181717?style=flat-square&Blogger&logoColor=white"/></a>
 [![wakatime](https://wakatime.com/badge/user/e126e2dc-d14d-4d98-887c-4022b073fa92.svg)](https://wakatime.com/@e126e2dc-d14d-4d98-887c-4022b073fa92)
 </div>
