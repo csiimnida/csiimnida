@@ -8,4 +8,4 @@
 [![wakatime](https://wakatime.com/badge/user/e126e2dc-d14d-4d98-887c-4022b073fa92.svg)](https://wakatime.com/@e126e2dc-d14d-4d98-887c-4022b073fa92)
 </div>
 
-<center href="https://wakatime.com"><img src="https://wakatime.com/share/@e126e2dc-d14d-4d98-887c-4022b073fa92/cedbe9bb-e67a-42a7-8de9-a9c276675004.png" /></center>
+<center> href="https://wakatime.com"><img src="https://wakatime.com/share/@e126e2dc-d14d-4d98-887c-4022b073fa92/cedbe9bb-e67a-42a7-8de9-a9c276675004.png" /></center>
