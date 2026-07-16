@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=A6E1E6&text=Hello&fontAlign=50&descAlign=50&fontAlignY=50&fontColor=444444&animation=fadeIn&rotate=0&section=header&reversal=false)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=A6E1E6&text=크시&fontAlign=50&descAlign=50&fontAlignY=50&fontColor=444444&animation=fadeIn&rotate=0&section=header&reversal=false)
              
 
 
